@@ -7,19 +7,32 @@ body{
     font-size: 40px;
     text-align: center;
     background-color: rgb(54, 163, 48);
+    border-radius: 10px;
 }
 .font-500{
     font-family: 'Roboto', sans-serif;
     color: rgb(44, 88, 18);
     font-weight: bold;
     padding: 10px;
+    
 }
 .font-300{
     font-family: 'Roboto', sans-serif;
     padding: 10px;
     line-height: 18px;
+    
 }
-div{
-    background-color: rgb(245, 220, 187);
+div {
     border-radius: 10px;
+    background-color: navajowhite;
 }
+img{
+    display: inline-block;
+    border-radius: 10px;
+    height: 200px;
+}
+.box{
+    display: inline-block;
+}
+
+
